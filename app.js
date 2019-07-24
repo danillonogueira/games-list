@@ -1,5 +1,3 @@
-// TODO: all button must come selected by default and stuff must be showing
-
 // LIST
 
 const response = {

@@ -23,8 +23,8 @@ body {
   display: flex;
   flex-direction: column;
   margin: 0 auto;
-  max-width: 780px;
-  width: 100%;
+  width: 780px;
+  height: 472px;
 }
 
 /* BUTTONS */
